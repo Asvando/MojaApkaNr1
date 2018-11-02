@@ -54,5 +54,10 @@ namespace rozdzial
             Form6 rozdzial = new Form6();
             rozdzial.Show();
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
