@@ -1,0 +1,40 @@
+c:\users\avsvando eveleny\documents\visual studio 2017\Projects\rozdzial\rozdzial\bin\Debug\rozdzial.exe.config
+c:\users\avsvando eveleny\documents\visual studio 2017\Projects\rozdzial\rozdzial\bin\Debug\rozdzial.exe
+c:\users\avsvando eveleny\documents\visual studio 2017\Projects\rozdzial\rozdzial\bin\Debug\rozdzial.pdb
+c:\users\avsvando eveleny\documents\visual studio 2017\Projects\rozdzial\rozdzial\obj\Debug\rozdzial.csprojResolveAssemblyReference.cache
+c:\users\avsvando eveleny\documents\visual studio 2017\Projects\rozdzial\rozdzial\obj\Debug\rozdzial.Form1.resources
+c:\users\avsvando eveleny\documents\visual studio 2017\Projects\rozdzial\rozdzial\obj\Debug\rozdzial.Form2.resources
+c:\users\avsvando eveleny\documents\visual studio 2017\Projects\rozdzial\rozdzial\obj\Debug\rozdzial.Properties.Resources.resources
+c:\users\avsvando eveleny\documents\visual studio 2017\Projects\rozdzial\rozdzial\obj\Debug\rozdzial.csproj.GenerateResource.Cache
+c:\users\avsvando eveleny\documents\visual studio 2017\Projects\rozdzial\rozdzial\obj\Debug\rozdzial.exe
+c:\users\avsvando eveleny\documents\visual studio 2017\Projects\rozdzial\rozdzial\obj\Debug\rozdzial.pdb
+C:\Users\Avsvando Eveleny\Documents\Visual Studio 2017\Projects\rozdzial\rozdzial\obj\Debug\rozdzial.Form3.resources
+C:\Users\Avsvando Eveleny\Documents\Visual Studio 2017\Projects\rozdzial\rozdzial\obj\Debug\rozdzial.Form4.resources
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\bin\Debug\rozdzial.exe.config
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\bin\Debug\rozdzial.exe
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\bin\Debug\rozdzial.pdb
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.csprojResolveAssemblyReference.cache
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.Form1.resources
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.Form2.resources
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.Form3.resources
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.Form4.resources
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.Properties.Resources.resources
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.csproj.GenerateResource.Cache
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.csproj.CoreCompileInputs.cache
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.exe
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.pdb
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\bin\Debug\rozdzial.exe.config
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\bin\Debug\rozdzial.exe
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\bin\Debug\rozdzial.pdb
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\bin\Debug\ClassLibrary2.dll
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\bin\Debug\ClassLibrary2.pdb
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.csprojResolveAssemblyReference.cache
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.Form1.resources
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.Form2.resources
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.Form3.resources
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.Form4.resources
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.Properties.Resources.resources
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.csproj.GenerateResource.Cache
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.exe
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.pdb
+C:\Users\Avsvando Eveleny\Desktop\rozdzial\rozdzial\obj\Debug\rozdzial.Form5.resources

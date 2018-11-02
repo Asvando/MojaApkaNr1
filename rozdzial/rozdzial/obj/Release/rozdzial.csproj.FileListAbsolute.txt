@@ -1,0 +1,12 @@
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\bin\Release\rozdzial.exe.config
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\bin\Release\rozdzial.exe
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\bin\Release\rozdzial.pdb
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Release\rozdzial.Form1.resources
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Release\rozdzial.Form2.resources
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Release\rozdzial.Form3.resources
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Release\rozdzial.Form4.resources
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Release\rozdzial.Properties.Resources.resources
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Release\rozdzial.csproj.GenerateResource.Cache
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Release\rozdzial.csproj.CoreCompileInputs.cache
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Release\rozdzial.exe
+C:\Users\Dosilly\Desktop\rozdzial\rozdzial\obj\Release\rozdzial.pdb
